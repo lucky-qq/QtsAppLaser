@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="app_name">HSK QTS Laser</string>
+  <string name="button_ok">OK</string>
+  <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+  <string name="start_capture">START CAPTURE</string>
+
+  <!-- MAIN ACTIVITY-->
+  <string name="main_login_in">Login In</string>
+  <string name="main_login_out">Login Out</string>
+  <string name="main_box_in">Box In</string>
+  <string name="main_box_out">Box Out</string>
+  <string name="main_box_delete">Box Delete</string>
+  <string name="main_box_back">Box Back</string>
+  <string name="main_box_ship_order">Ship Order</string>
+  <string name="main_print_m">Print Mark</string>
+  <string name="main_mark_check">Check Mark</string>
+  <string name="main_setting">Settings</string>
+  <string name="main_set_print">Set Printer</string>
+  <string name="main_connect_print">Connect Pinter</string>
+  <string name="user_not_login">No user login, press scan button to login.</string>
+  <string name="close_app_popup">Sure to close this app?</string>
+
+  <string name="open_bluetooth">Open Bluetooth</string>
+  <string name="scan">Scan Device</string>
+  <string name="scanning">Scanning...</string>
+  <string name="disconnect">Disconnect</string>
+  <string name="bluetooth_connected">Bluetooth connected</string>
+  <string name="no_bluetooth_device">No bluetooth device</string>
+  <string name="connect_success">Connect successfully!</string>
+  <string name="connect_fail">Connect failed!</string>
+
+  <string name="user_id_error">User ID error!</string>
+  <string name="user_not_login_error">User not login!</string>
+
+  <string name="box_code">Box code</string>
+  <string name="box_customer">Customer</string>
+  <string name="box_product">Product</string>
+  <string name="box_heat_no">Heat No.</string>
+  <string name="box_total_num">Total num</string>
+  <string name="box_state">State</string>
+
+  <string name="box_code_error">Box code error!</string>
+  <string name="box_state_error">Box state error!</string>
+
+  <string name="box_in_start">START IN</string>
+  <string name="box_in_success">Box in successfully!</string>
+  <string name="box_in_fail">Box in failed!</string>
+
+  <string name="box_delete_start">START DELETE</string>
+  <string name="box_delete_success">Delete box successfully!</string>
+  <string name="box_delete_fail">Delete box failed!</string>
+
+  <string name="box_back_start">START BACK</string>
+  <string name="box_back_success">Back box successfully!</string>
+  <string name="box_back_fail">Back box failed!</string>
+
+  <string name="ship_order_create">CREATE</string>
+  <string name="box_in_ship_null_error">No box selected!</string>
+  <string name="create_ship_order_success">Create ship order successfully!</string>
+  <string name="create_ship_order_fail">Create ship order failed!</string>
+
+  <string name="box_num">Box num</string>
+  <string name="parts_no">PARTS No.</string>
+  <string name="count_no">C/No.</string>
+  <string name="lot_no">LOT No.</string>
+  <string name="pcs">PCS</string>
+  <string name="case_no">Case No.</string>
+  <string name="mark_code">Mark code</string>
+  <string name="mark_page">Mark page</string>
+  <string name="delete">DELETE</string>
+
+  <string name="print_one_mark_start">PRINT ONE</string>
+  <string name="print_all_mark_start">PRINT ALL</string>
+  <string name="print_no_mark">No mark info!</string>
+  <string name="print_error">Print error!</string>
+
+  <string name="checked_page">Checked pages</string>
+  <string name="mark_check_start">START CHECK</string>
+  <string name="mark_code_error">Mark code error!</string>
+  <string name="check_success">Check successfully.</string>
+  <string name="check_fail">Check failed.</string>
+
+  <string name="box_out_start">START OUT</string>
+  <string name="box_out_order_id">Order ID</string>
+  <string name="no_box_selected">No box selected!</string>
+  <string name="ship_order_can_not_out">Ship order can not out!</string>
+  <string name="box_in_another_order">The box is in new order, do you want change to the new order?</string>
+  <string name="box_out_success">Out successfully!</string>
+  <string name="box_out_fail">Out failed!</string>
+
+  <string name="server">Server</string>
+  <string name="save">Save</string>
+  <string name="save_success">Save successfully!</string>
+</resources>

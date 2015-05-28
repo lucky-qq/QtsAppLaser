@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="menu_color_1">#FDCB01</color>
+    <color name="menu_color_2">#009898</color>
+    <color name="menu_color_3">#CB3366</color>
+    <color name="menu_color_4">#006698</color>
+    <color name="menu_color_5">#663398</color>
+    <color name="menu_color_6">#CB0033</color>
+    <color name="menu_color_7">#333398</color>
+    <color name="menu_color_8">#98CB01</color>
+    <color name="menu_color_9">#FD6601</color>
+    <color name="button_bg">#0099cc</color>
+</resources>
